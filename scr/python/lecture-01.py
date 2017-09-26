@@ -1,10 +1,8 @@
 import random
 import numpy as np
 
-
 def random_array():
     print(np.random.randint(-10, 10, 20))
-
 
 def create_matrix():
     m = input('\n Nhap m:')

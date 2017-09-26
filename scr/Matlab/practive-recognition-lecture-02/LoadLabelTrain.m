@@ -1,0 +1,6 @@
+function LabelTrain = LoadLabelTrain()
+    
+
+
+end
+
